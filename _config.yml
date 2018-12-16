@@ -1,18 +1,21 @@
 # Site settings
+locale: "ko"
 title:          Hyoyoung Kim
-description:    "Minimal Jekyll theme for storytellers"
+description:    " :) "
 baseurl:        "/hyngkm"
 url:            "https://hyngkm.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
-# Author
+# Site Author
 author:
   name:         Hyoyoung Kim
   url:          https://hyngkm.github.io
   email:        hyoyoung.j.kim@gmail.com
-
+  big:          Product Designer
+  location:     Seoul, S.Korea
+  
 # Build settings
 markdown:       kramdown
 include:
