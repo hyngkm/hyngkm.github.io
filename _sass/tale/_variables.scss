@@ -12,8 +12,8 @@ $code-color: #bf616a;
 
 // Fonts
 $serif-primary: 'Libre Baskerville', 'Times New Roman', Times, serif;
-$serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif;
-$sans-serif: 'Noto Sans KR', 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
+$serif-secondary: 'Gothic A1', sans-serif;
+$sans-serif: 'Gothic A1', sans-serif;
 $monospaced: 'Space Mono', monospace;
 
 @mixin box-sizing($type: border-box) {
