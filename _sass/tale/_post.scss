@@ -17,11 +17,11 @@
     font-family: $sans-serif;
     font-size: 2.6rem;
     margin: 1rem 0;
-    text-align: center;
+    text-align: left;
   }
 
   &-line {
-    border-top: 0.4rem solid $default-shade;
+    border-top: 0.3rem solid $default-shade;
     display: block;
     margin: 0 auto 3rem;
     width: 4rem;
