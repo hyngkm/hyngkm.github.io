@@ -13,8 +13,8 @@ $code-color: #bf616a;
 // Fonts
 $serif-primary: 'Didact Gothic', 'Gothic A1', sans-serif;
 $serif-secondary: 'Didact Gothic', sans-serif;
-$sans-serif: 'Gothic A1', sans-serif;
-$monospaced: 'Space Mono', monospace;
+$sans-serif: * 'Work Sans', 'Poppins', 'Didact Gothic', sans-serif;
+$monospaced: 'Roboto Mono', monospace;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
