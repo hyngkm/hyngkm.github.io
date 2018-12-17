@@ -11,9 +11,9 @@ $shadow-color: rgba(0, 0, 0, .2);
 $code-color: #bf616a;
 
 // Fonts
-$serif-primary: 'Nanum Myeongjo', serif;
+$serif-primary: 'Noto Sans KR', 'Nanum Myeongjo', sans-serif;
 $serif-secondary: 'Cormorant Garamond', serif;
-$sans-serif: 'CircularStd-Book', 'Noto Sans KR', sans-serif;
+$sans-serif: 'CircularStd-Book', sans-serif;
 $monospaced: 'Roboto Mono', monospace;
 
 @mixin box-sizing($type: border-box) {
