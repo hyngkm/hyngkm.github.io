@@ -11,9 +11,9 @@ $shadow-color: rgba(0, 0, 0, .2);
 $code-color: #bf616a;
 
 // Fonts
-$serif-primary: 'Didact Gothic', 'Gothic A1', sans-serif;
-$serif-secondary: 'Didact Gothic', 'Poppins', 'Noto Sans KR', sans-serif;
-$sans-serif: 'Didact Gothic', 'Poppins', 'Noto Sans KR', sans-serif;
+$serif-primary: 
+$serif-secondary: 'Poppins', 'Noto Sans KR', sans-serif;
+$sans-serif: 'Poppins', 'Noto Sans KR', sans-serif;
 $monospaced: 'Roboto Mono', monospace;
 
 @mixin box-sizing($type: border-box) {
