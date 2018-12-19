@@ -11,4 +11,4 @@ permalink: /about/
 
 ### Outside of the office, she keeps busy with playing tennis and ping-pong, doing some gardening and exploring a pretty and calm place. She currently lives in Seoul with her awesome cats.
 
-Download my CV [here](https://www.dropbox.com/s/mflqvuydydry20q/hyoyoung_kim.pdf?dl=0)   |   Online résumé is on [Linkedin](https://www.linkedin.com/in/hyoyoungkim/)
+Download my CV [here](https://www.dropbox.com/s/mflqvuydydry20q/hyoyoung_kim.pdf?dl=0)   |   Online résumé is on [Linkedin](https://www.linkedin.com/in/hyoyoungkim/) add
