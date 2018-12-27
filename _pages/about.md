@@ -9,9 +9,9 @@ permalink: /about/
 
 ### She holds MA in Brand Management from Hongik Graduate School of Advertising and Public Relations and a BFA in Visual Communication Design from Hongik University. She works full time in Toss in Seoul, South Korea. She is also the founder of Romantic Studio, a small satellite design studio with a strong focus on digital and graphic design. Her work has been awarded at Red Dot 2014.
 
-#### Outside of the office, she keeps busy with playing tennis and ping-pong, doing some gardening and exploring a pretty and calm place. She currently lives in Seoul with her awesome cats.
+### Outside of the office, she keeps busy with playing tennis and ping-pong, doing some gardening and exploring a pretty and calm place. She currently lives in Seoul with her awesome cats.
 
-Download my CV [here](https://www.dropbox.com/s/mflqvuydydry20q/hyoyoung_kim.pdf?dl=0)   |   Online résumé is on [Linkedin](https://www.linkedin.com/in/hyoyoungkim/)
+### CV available upon [request](mailto: hyoyoung.j.kim@gmail.com)  |   Online résumé is on [Linkedin](https://www.linkedin.com/in/hyoyoungkim/)
 
 ## Contact & more
 
