@@ -11,7 +11,7 @@ permalink: /about/
 
 ### Outside of the office, she keeps busy with playing tennis and ping-pong, doing some gardening and exploring a pretty and calm place. She currently lives in Seoul with her awesome cats.
 
-### CV available upon [request](mailto: hyoyoung.j.kim@gmail.com)  |   Online résumé is on [Linkedin](https://www.linkedin.com/in/hyoyoungkim/)<a href="https://www.linkedin.com/in/hyoyoungkim/" target="_blank">Linkedin</a>
+### CV available upon [request](mailto: hyoyoung.j.kim@gmail.com)  |   Online résumé is on <a href="https://www.linkedin.com/in/hyoyoungkim/" target="_blank">Linkedin</a>
 
 <br>
 ## Contact & more
