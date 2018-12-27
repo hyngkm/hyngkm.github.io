@@ -10,7 +10,16 @@ author: "Chester"
 Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.
 
 작업 기간:
-담당 업무: 
+
+#### My Role
+Survey, personas, wireframe, prototyping, user testing, visual design
+
+#### Process
+
+#### Tools
+Figma, Optimal Workshop
+
+https://sandytsai.co/fastback.html
 
 ## Tale features
 - Compatible with GitHub Pages
