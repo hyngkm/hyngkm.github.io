@@ -14,7 +14,9 @@ permalink: /about/
 ### CV available upon [request](mailto: hyoyoung.j.kim@gmail.com)  |   Online résumé is on <a href="https://www.linkedin.com/in/hyoyoungkim/" target="_blank">Linkedin</a>
 
 <br>
-## Contact & more
+# Contact & more
 
-<a href="https://www.firstborn.com" target="_blank">Instagram</a>
+### Upload frequently on <a href="https://www.instagram.com/romanticstudio/" target="_blank">Instagram</a>  
+### Occasional writer on <a href="https://brunch.co.kr/@pizzakim#articles" target="_blank">Brunch</a>
+
 </> available on GitHub
