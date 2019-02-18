@@ -29,6 +29,7 @@ footer,
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
+    letter-spacing: .5px;
 
     &:hover,
     &:focus {
@@ -87,6 +88,6 @@ footer {
 
   span {
     color: $default-color;
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 }
