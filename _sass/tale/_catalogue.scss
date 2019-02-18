@@ -19,15 +19,14 @@
     color: $default-tint;
     font-family: $serif-secondary;
     font-size: 1rem;
-    letter-spacing: .5;
+    letter-spacing: 0.03em;
   }
 
   &-title {
     color: $default-shade;
     display: block;
     font-family: $sans-serif;
-    font-size: 1.6rem;
-    
+    font-size: 1.6rem;    
     margin: .5rem 0;
   }
 
