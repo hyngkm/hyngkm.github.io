@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'HyoyoungKim_Regular';
+    src: url('HyoyoungKim_Regular.eot');
+    src: url('HyoyoungKim_Regular.eot?#iefix') format('embedded-opentype'),
+         url('HyoyoungKim_Regulark.woff') format('woff'),
+         url('HyoyoungKim_Regular.ttf') format('truetype'),
+         url('HyoyoungKim_Regular.svg#CircularStd-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
