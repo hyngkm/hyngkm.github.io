@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'PepperoniPizza';
+    src: url('PepperoniPizza.eot');
+    src: url('PepperoniPizza.eot?#iefix') format('embedded-opentype'),
+         url('PepperoniPizza.woff') format('woff'),
+         url('PepperoniPizza.ttf') format('truetype'),
+         url('PepperoniPizza.svg#CircularStd-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
